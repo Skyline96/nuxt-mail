@@ -1583,9 +1583,9 @@
     with-local-tmp-dir "^5.0.0"
 
 "@dword-design/tester-plugin-puppeteer@^2.1.22":
-  version "2.1.43"
-  resolved "https://registry.yarnpkg.com/@dword-design/tester-plugin-puppeteer/-/tester-plugin-puppeteer-2.1.43.tgz#d9f6eed004c5d340ab37082e92d99b3b7b09a271"
-  integrity sha512-XT4crna2+EUcskZMEGk7+TZ21KglBLUoDkHqnvLcXUR89GVAFjhJOHDmAFiFprFumgvZFH0FQzalUcw5PMbWuw==
+  version "2.1.46"
+  resolved "https://registry.yarnpkg.com/@dword-design/tester-plugin-puppeteer/-/tester-plugin-puppeteer-2.1.46.tgz#809f6be8457d83af26610bc2f1a877eaf87f524c"
+  integrity sha512-FxmW7DyaTyobA0EBZ1b1NjNXsW7Fd7KbRaq/lDeOdoy+kCbjrFLdCtc5gdbz+znFxwC3A4w5LDOc9ntz9ndiBQ==
   dependencies:
     is-docker "^3.0.0"
     xvfb "^0.4.0"
@@ -7401,15 +7401,15 @@ gzip-size@^7.0.0:
     duplexer "^0.1.2"
 
 h3@^1.0.2, h3@^1.5.0, h3@^1.6.2:
-  version "1.6.2"
-  resolved "https://registry.yarnpkg.com/h3/-/h3-1.6.2.tgz#40177d886acf585a275098601d05cefd628238b7"
-  integrity sha512-1v/clj/qCzWbuiG+DbpViuOVO789sEYNjlwRjekkmyLGsezIJk30gazbnjcWvF8L/ffUdRz2SwxE5HNgNx+Yjg==
+  version "1.6.4"
+  resolved "https://registry.yarnpkg.com/h3/-/h3-1.6.4.tgz#0575995014f6a1a63ff3bbfe3eaf58da0972b9e8"
+  integrity sha512-uoDNeaoeDRwWBtwwi4siZ6l5sBmDJpnpcBssuAbvsaPBonl8vP7Ym4tFPe+tAvGM0GbUoC24wYcloCG+J9hqmA==
   dependencies:
     cookie-es "^0.5.0"
     defu "^6.1.2"
     destr "^1.2.2"
     iron-webcrypto "^0.6.0"
-    radix3 "^1.0.0"
+    radix3 "^1.0.1"
     ufo "^1.1.1"
     uncrypto "^0.1.2"
 
@@ -10904,9 +10904,9 @@ nuxi@3.3.2:
     fsevents "~2.3.2"
 
 nuxt-push-plugins@^2.1.2:
-  version "2.1.11"
-  resolved "https://registry.yarnpkg.com/nuxt-push-plugins/-/nuxt-push-plugins-2.1.11.tgz#c241b288474d6cdb4abde6db4168af5d8fd05b79"
-  integrity sha512-aqn63OBRjKL8jYFJ5bCwkJMI5Pj5JoAYmV5EkH4tfSpI14XcEcE/zGE+6Yw4V6DIVYRd8fzodOFsSPF67QFYOg==
+  version "2.1.14"
+  resolved "https://registry.yarnpkg.com/nuxt-push-plugins/-/nuxt-push-plugins-2.1.14.tgz#cbffbf1c0702ce926d3289fe3c822510a0df4587"
+  integrity sha512-V+Gy9KFvMtFTe08WawhOzl+6Q8UYB73FtLvwAUAc1Xy+EO8tR/VID0VguGsOboDyaYcjUkMsP17SyAEvUcWZqw==
   dependencies:
     "@dword-design/functions" "^4.0.0"
     "@nuxt/kit" "^3.0.0"
@@ -12236,6 +12236,11 @@ radix3@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/radix3/-/radix3-1.0.0.tgz#d1c760b850206a6bd5dfd26820c25903cb20eccc"
   integrity sha512-6n3AEXth91ASapMVKiEh2wrbFJmI+NBilrWE0AbiGgfm0xet0QXC8+a3K19r1UVYjUjctUgB053c3V/J6V0kCQ==
+
+radix3@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/radix3/-/radix3-1.0.1.tgz#de0ac16234f8a63288645854a54fc26e45a4a8eb"
+  integrity sha512-y+AcwZ3HcUIGc9zGsNVf5+BY/LxL+z+4h4J3/pp8jxSmy1STaCocPS3qrj4tA5ehUSzqtqK+0Aygvz/r/8vy4g==
 
 randomatic@^3.0.0:
   version "3.1.1"

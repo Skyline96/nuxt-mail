@@ -1,3 +1,38 @@
+## [3.1.28](https://github.com/dword-design/nuxt-mail/compare/v3.1.27...v3.1.28) (2023-04-07)
+
+
+### Bug Fixes
+
+* update dependency nuxt-push-plugins to v2.1.14 ([0064b85](https://github.com/dword-design/nuxt-mail/commit/0064b850fba5f7c6884da00b7abd0bd26dd928db))
+
+## [3.1.27](https://github.com/dword-design/nuxt-mail/compare/v3.1.26...v3.1.27) (2023-04-07)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/tester-plugin-puppeteer to v2.1.46 ([f9126fb](https://github.com/dword-design/nuxt-mail/commit/f9126fb3e63c361a6cdee2d9300026906f0178ad))
+
+## [3.1.26](https://github.com/dword-design/nuxt-mail/compare/v3.1.25...v3.1.26) (2023-04-07)
+
+
+### Bug Fixes
+
+* update dependency nuxt-push-plugins to v2.1.13 ([d9580c3](https://github.com/dword-design/nuxt-mail/commit/d9580c362abf2e6b45655b43d8920132dec90493))
+
+## [3.1.25](https://github.com/dword-design/nuxt-mail/compare/v3.1.24...v3.1.25) (2023-04-06)
+
+
+### Bug Fixes
+
+* update dependency h3 to v1.6.4 ([5bee393](https://github.com/dword-design/nuxt-mail/commit/5bee393431846b2ab07179cacd05795725adf05a))
+
+## [3.1.24](https://github.com/dword-design/nuxt-mail/compare/v3.1.23...v3.1.24) (2023-04-06)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/tester-plugin-puppeteer to v2.1.45 ([354c320](https://github.com/dword-design/nuxt-mail/commit/354c32042008df941d8acbdecb8a1e0c8b04f7e7))
+
 ## [3.1.23](https://github.com/dword-design/nuxt-mail/compare/v3.1.22...v3.1.23) (2023-03-25)
 
 
