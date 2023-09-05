@@ -1,3 +1,145 @@
+## [4.0.1](https://github.com/dword-design/nuxt-mail/compare/v4.0.0...v4.0.1) (2023-05-19)
+
+
+### Bug Fixes
+
+* test windows ([#202](https://github.com/dword-design/nuxt-mail/issues/202)) ([9b3028a](https://github.com/dword-design/nuxt-mail/commit/9b3028a89c1a68bba78db4123de1bd4740dd7a09))
+
+# [4.0.0](https://github.com/dword-design/nuxt-mail/compare/v3.1.45...v4.0.0) (2023-05-19)
+
+
+### Bug Fixes
+
+* drop node 14 support ([bb2aa0a](https://github.com/dword-design/nuxt-mail/commit/bb2aa0a680e746e4103f5d104bcc7cd083d033ba))
+* nuxt-alias-path ([5ff54f4](https://github.com/dword-design/nuxt-mail/commit/5ff54f4c6cfa7171e1b8f1a3f77b434b81f962ea))
+
+
+### BREAKING CHANGES
+
+* drop node 14 support
+
+## [3.1.45](https://github.com/dword-design/nuxt-mail/compare/v3.1.44...v3.1.45) (2023-05-19)
+
+
+### Bug Fixes
+
+* use #imports instead of #app ([dad1449](https://github.com/dword-design/nuxt-mail/commit/dad14492feab28b93e1c0c67b7667a2fbaf0020c))
+
+## [3.1.44](https://github.com/dword-design/nuxt-mail/compare/v3.1.43...v3.1.44) (2023-05-18)
+
+
+### Bug Fixes
+
+* update dependency depcheck-package-name to v3 ([#135](https://github.com/dword-design/nuxt-mail/issues/135)) ([c3d360e](https://github.com/dword-design/nuxt-mail/commit/c3d360e5394f7da580d2c730f520ba54d58697d7))
+
+## [3.1.43](https://github.com/dword-design/nuxt-mail/compare/v3.1.42...v3.1.43) (2023-05-05)
+
+
+### Bug Fixes
+
+* update dependency h3 to v1.6.5 ([b0d8c44](https://github.com/dword-design/nuxt-mail/commit/b0d8c4423cdd513cc872aeffff3bda706517e4e4))
+
+## [3.1.42](https://github.com/dword-design/nuxt-mail/compare/v3.1.41...v3.1.42) (2023-04-29)
+
+
+### Bug Fixes
+
+* update dependency @nuxt/kit to v3.4.3 ([d248800](https://github.com/dword-design/nuxt-mail/commit/d248800e5a830ed44039252b2c41889eee1c17cc))
+
+## [3.1.41](https://github.com/dword-design/nuxt-mail/compare/v3.1.40...v3.1.41) (2023-04-29)
+
+
+### Bug Fixes
+
+* update dependency nuxt to v3.4.3 ([f2a0b0e](https://github.com/dword-design/nuxt-mail/commit/f2a0b0e8f0a36e59f65282c0e65a2e34a900acd0))
+
+## [3.1.40](https://github.com/dword-design/nuxt-mail/compare/v3.1.39...v3.1.40) (2023-04-27)
+
+
+### Bug Fixes
+
+* update dependency nuxt to v3.4.2 ([f8a5bac](https://github.com/dword-design/nuxt-mail/commit/f8a5bacb4f5754f3d3cbf1ef42c5634f8673607a))
+
+## [3.1.39](https://github.com/dword-design/nuxt-mail/compare/v3.1.38...v3.1.39) (2023-04-26)
+
+
+### Bug Fixes
+
+* update dependency nuxt-push-plugins to v2.1.32 ([df84903](https://github.com/dword-design/nuxt-mail/commit/df8490320280de3bb289ba3cd3f9a5380fc78ef1))
+
+## [3.1.38](https://github.com/dword-design/nuxt-mail/compare/v3.1.37...v3.1.38) (2023-04-22)
+
+
+### Bug Fixes
+
+* update dependency @nuxt/kit to v3.4.2 ([1552fa3](https://github.com/dword-design/nuxt-mail/commit/1552fa34f6c6562bf9455ef47aa1fed16b31028e))
+
+## [3.1.37](https://github.com/dword-design/nuxt-mail/compare/v3.1.36...v3.1.37) (2023-04-22)
+
+
+### Bug Fixes
+
+* update dependency nuxt-push-plugins to v2.1.31 ([810c6a2](https://github.com/dword-design/nuxt-mail/commit/810c6a289150e9a71caa00eac948ce6c80a8758a))
+
+## [3.1.36](https://github.com/dword-design/nuxt-mail/compare/v3.1.35...v3.1.36) (2023-04-14)
+
+
+### Bug Fixes
+
+* update dependency output-files to v2.0.27 ([4d3103d](https://github.com/dword-design/nuxt-mail/commit/4d3103d2834e946f463c5a2e146452212d477a7d))
+
+## [3.1.35](https://github.com/dword-design/nuxt-mail/compare/v3.1.34...v3.1.35) (2023-04-14)
+
+
+### Bug Fixes
+
+* update dependency nuxt to v3.4.1 ([19efc8a](https://github.com/dword-design/nuxt-mail/commit/19efc8ad3059f84d402c187afaf2f9473a2119bd))
+* update dependency nuxt-push-plugins to v2.1.26 ([7dca51a](https://github.com/dword-design/nuxt-mail/commit/7dca51a49db3917b531c06e6cb28ea599d9190c8))
+
+## [3.1.34](https://github.com/dword-design/nuxt-mail/compare/v3.1.33...v3.1.34) (2023-04-13)
+
+
+### Bug Fixes
+
+* update dependency @nuxt/kit to v3.4.1 ([15a4fe9](https://github.com/dword-design/nuxt-mail/commit/15a4fe9ab273e37611a274b5fdb5098c429d1342))
+
+## [3.1.33](https://github.com/dword-design/nuxt-mail/compare/v3.1.32...v3.1.33) (2023-04-12)
+
+
+### Bug Fixes
+
+* update dependency tree-kill-promise to v3.0.14 ([067f1ad](https://github.com/dword-design/nuxt-mail/commit/067f1ad6f7ab695f2f2f31fbecf979761ef6cd64))
+
+## [3.1.32](https://github.com/dword-design/nuxt-mail/compare/v3.1.31...v3.1.32) (2023-04-12)
+
+
+### Bug Fixes
+
+* update dependency with-local-tmp-dir to v5.0.1 ([1111523](https://github.com/dword-design/nuxt-mail/commit/11115235ee72fdcd8846a63ddfe6216ac1938816))
+
+## [3.1.31](https://github.com/dword-design/nuxt-mail/compare/v3.1.30...v3.1.31) (2023-04-12)
+
+
+### Bug Fixes
+
+* update dependency @nuxt/kit to v3.4.0 ([9ba7b3d](https://github.com/dword-design/nuxt-mail/commit/9ba7b3d53d9d0feb2fed9b24201d3e472ab1317d))
+
+## [3.1.30](https://github.com/dword-design/nuxt-mail/compare/v3.1.29...v3.1.30) (2023-04-11)
+
+
+### Bug Fixes
+
+* update dependency nuxt-push-plugins to v2.1.22 ([5ca4ca6](https://github.com/dword-design/nuxt-mail/commit/5ca4ca6adb13d4054fa178ee3028cac105ebef27))
+* update dependency output-files to v2.0.23 ([80ce824](https://github.com/dword-design/nuxt-mail/commit/80ce8245b184d2e69fce539b9435c1db91a124bc))
+
+## [3.1.29](https://github.com/dword-design/nuxt-mail/compare/v3.1.28...v3.1.29) (2023-04-09)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#147](https://github.com/dword-design/nuxt-mail/issues/147)) ([2e6f68a](https://github.com/dword-design/nuxt-mail/commit/2e6f68a02cc14c797560b569ff38653f938786a4))
+* update dependency @dword-design/functions to v4.1.7 ([e0a1412](https://github.com/dword-design/nuxt-mail/commit/e0a1412f78ca81a0fe03b71c37d99fafdd5abb76))
+
 ## [3.1.28](https://github.com/dword-design/nuxt-mail/compare/v3.1.27...v3.1.28) (2023-04-07)
 
 

@@ -1,4 +1,3 @@
-
 {
   "name": "@dword-design/node",
   "seeAlso": [
@@ -8,15 +7,15 @@
     { "repository": "nuxt-content-git", "description": "Additional module for @nuxt/content that replaces or adds createdAt and updatedAt dates based on the git history." },
     { "repository": "nuxt-babel-runtime", "description": "Nuxt CLI that supports babel. Inspired by @nuxt/typescript-runtime." }
   ],
-  "supportedNodeVersions": [14, 16],
+  "supportedNodeVersions": [16],
+  "nodeVersion": 16,
   "eslintConfig": {
     "extends": "@dword-design/eslint-config",
     "rules": {
-      "import/no-unresolved": ["error", { "ignore": ["#app", "#mail"] }]
+      "import/no-unresolved": ["error", { "ignore": ["#imports", "#mail"] }]
     },
     "globals": {
       "$fetch": "readonly"
     }
-  },
-  "windows": false
+  }
 }
